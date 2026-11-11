@@ -42,8 +42,8 @@ The "892 / 55" marks on ELDORIA-004 were added later and are "not immediately re
 ## Clues and progress
 | Clue | Our reading | Confidence |
 |---|---|---|
-| 001 "sacred alphabet in the stones of Jerusalem" | Templar cipher for 002 front | medium |
-| 002 boxes 4 5 · 7 · 3 · 6 1 | fill with the 002 plaintext; numbered letters give a word or number | low |
+| 002 front (Templar cipher) | **SOLVED:** "RECORDAD A JPDL EL HOMBRE QUE BUSCO LA VIDA ETERNA" = remember Juan Ponce de León. See `transcripts/002-templar-cipher.md` | high |
+| 002 back: 15 boxes | JUANPONCEDELEON fits exactly; marked boxes give E ? C U A L O (not understood yet) | medium |
 | 003 header `e2 b3 d1 d3 a4 d1` | grid references into the stela numerals | low |
 | 004 triangle numerals | about 10 (left), 6 (right), 5 or 10 (bottom); maybe distances or bearings | low |
 | 005 legs | net to Day 30 point: 556 nm E, 395 nm N; Day 32 compass fixed to East | medium |
