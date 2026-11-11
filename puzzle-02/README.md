@@ -30,6 +30,15 @@ From the Supplementary Analysis Note (`documents/00-supplementary-analysis-note.
 | 003 header | e2 b3 d1 d3 a4 d1 | grid references (column a–e, row 1–4), maybe into the numeral border | low |
 | 003 plan | walls on 3 sides, sea on the east | Tulum, Quintana Roo | medium |
 
+## ELDORIA-003 back – our translation (Yucatec Maya, unofficial)
+1. When the sacred disk rises out of the water, the wind on the seashore moves among the ancient stones.
+2. There, no offering and no blood: one person's word alone is enough to wake the gods.
+3. The walls are low, the sky has no edge, and the sound of the morning answers like a breath.
+4. The ancients said this place is not of the earth, but of the moment the light touches the face of the one who prays.
+5. Find the place of the words, where fire does not burn, but where every word turns to fire.
+
+Reading: sunrise over the sea + low walls = Tulum. Point candidates: Temple of the Wind God (rocky point, top right of plan) or El Castillo.
+
 ## Candidate places
 | Place | Coordinates | Why | Confirmed? |
 |---|---|---|---|
