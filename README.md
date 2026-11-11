@@ -25,8 +25,8 @@ Each puzzle has its own folder; shared things live at the top.
 | Folder | What |
 |---|---|
 | `puzzle-01-key-phrase/` | Stage 1 (solved): `walkthrough.md`, `documents/`, `images/`, `map/`, `tools/` |
-| `puzzle-02/` | Next puzzle: starts from the template in its `README.md` |
+| `puzzle-02-shipwreck/` | Stage 2 (in progress): find 4 places from ELDORIA-001–006, use 007 to locate the shipwreck |
 | `shared/tools/` | Reusable tools (Vigenère decoder) |
 | `LEARNINGS.md` | What worked, mistakes to avoid, checklist for each new puzzle |
 
-For a new puzzle, copy `puzzle-02/` and rename it.
+For a new puzzle, make `puzzle-NN-name/` with `README.md`, `documents/`, `transcripts/`, `tools/`, `map/`.
