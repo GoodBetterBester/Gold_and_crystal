@@ -2,7 +2,7 @@
 
 Working notes for the Gold & Crystal "Eldoria" hunt.
 
-## Stage 1: solved
+## Puzzle 01: key phrase (solved)
 
 - **Key:** `SANPEDRODELAROCA` (Castillo San Pedro de la Roca del Morro, Santiago de Cuba)
 - **Cipher:** Vigenère (Blaise de Vigenère, *Traicté des Chiffres*)
@@ -18,14 +18,15 @@ Working notes for the Gold & Crystal "Eldoria" hunt.
 
 Crossroads: Havana–Grenada × Ocho Rios–Bermuda (great circles) = 20.02°N 75.84°W, Santiago de Cuba.
 
-## Notes
+## Layout
 
-- `notes/walkthrough.md` – step-by-step solution of every trial.
-- `notes/learnings.md` – what worked, mistakes, and a checklist for the next stage.
+Each puzzle has its own folder; shared things live at the top.
 
-## Folders
+| Folder | What |
+|---|---|
+| `puzzle-01-key-phrase/` | Stage 1 (solved): `walkthrough.md`, `documents/`, `images/`, `map/`, `tools/` |
+| `puzzle-02/` | Next puzzle: starts from the template in its `README.md` |
+| `shared/tools/` | Reusable tools (Vigenère decoder) |
+| `LEARNINGS.md` | What worked, mistakes to avoid, checklist for each new puzzle |
 
-- `map/eldoria-trial1.kml` – import into Google My Maps (Add layer → Import).
-- `map/eldoria-map.html` – standalone interactive map.
-- `tools/` – Vigenère, chess tiling and mate search scripts.
-- `images/` – sketch crops and painting overlays.
+For a new puzzle, copy `puzzle-02/` and rename it.
