@@ -15,6 +15,7 @@ The "892 / 55" marks on ELDORIA-004 were added later and are "not immediately re
 | `documents/` | Every page, named `<doc>-<side>-<what>.jpeg` |
 | `transcripts/` | Text from the site, our translations and notes, one file per document |
 | `tools/` | Scripts (`dead_reckoning.py` runs the 005 log legs) |
+| `images/` | Our comparison images and overlays |
 | `map/` | Map files and KML for this puzzle |
 
 ## Documents
@@ -32,7 +33,7 @@ The "892 / 55" marks on ELDORIA-004 were added later and are "not immediately re
 ## Which documents are the four maps?
 | # | Map | Place (guess) | Precise point (guess) | Confidence |
 |---|---|---|---|---|
-| 1 | 002 back | island group NW of the Bahamas (Bimini? Florida?) | from the Templar cipher + 16 boxes | low |
+| 1 | 002 back | **Bimini** (North Bimini hook + lagoon, South Bimini below; see `images/002-island-lineup.png`) | South Bimini "Fountain of Youth" well, or Shark Lab (ESCUALO)? | medium |
 | 2 | 003 back | **Tulum**, Mexico (20.2148 N, 87.4290 W) | Temple of the Wind God or El Castillo | medium |
 | 3 | 004 | ? (two islands) | SW tip ("where South meets West"), red X | low |
 | 4 | 006 | ? long island (Eleuthera? Long Island?) | "where the four hold their balance" (centre point?) | low |
