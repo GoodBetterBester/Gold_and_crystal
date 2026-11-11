@@ -43,7 +43,7 @@ The "892 / 55" marks on ELDORIA-004 were added later and are "not immediately re
 | Clue | Our reading | Confidence |
 |---|---|---|
 | 002 front (Templar cipher) | **SOLVED:** "RECORDAD A JPDL EL HOMBRE QUE BUSCO LA VIDA ETERNA" = remember Juan Ponce de León. See `transcripts/002-templar-cipher.md` | high |
-| 002 back: 15 boxes | JUANPONCEDELEON fits exactly; marked boxes give E ? C U A L O (not understood yet) | medium |
+| 002 back: 15 boxes | JUANPONCEDELEON fits exactly; marked boxes give E _ C U A L O = **ESCUALO** (shark) → the shark legs in 005 | medium |
 | 003 header `e2 b3 d1 d3 a4 d1` | grid references into the stela numerals | low |
 | 004 triangle numerals | about 10 (left), 6 (right), 5 or 10 (bottom); maybe distances or bearings | low |
 | 005 legs | net to Day 30 point: 556 nm E, 395 nm N; Day 32 compass fixed to East | medium |

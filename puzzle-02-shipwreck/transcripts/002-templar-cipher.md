@@ -35,4 +35,4 @@ box:   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
 mark:    4 5     7   3   =     6  1
 ```
 Also "≡" (Maya 15?) drawn above box 5, and "=" (Maya 10?) under box 10.
-Reading marked boxes by number: 1 E, 3 C, 4 U, 5 A, 6 L, 7 O (2 = the "=" box, D?) → E ? C U A L O. Not understood yet.
+Reading marked boxes by number: 1 E, 3 C, 4 U, 5 A, 6 L, 7 O (2 = the "=" box, D?) → E ? C U A L O. Garath: the "=" is just a wave. With 2 missing: E [S] C U A L O = **ESCUALO** (Spanish: shark). Links to the sharks in the ELDORIA-005 log (Day 26: seven sharks, next day the black cross; Day 32: sharks vanished).
