@@ -19,7 +19,9 @@ From the Supplementary Analysis Note (`documents/00-supplementary-analysis-note.
 | 002 back | Island map, arrow "Bahama" to the south-east, Maya glyph, 16 letter boxes numbered 4 5 · 7 · 3 · 6 1 | `02b-...back-map.jpeg` |
 | 003 front | Maya stela with bar-and-dot numerals round the border, header "e2 b3 d1 d3 a4 d1" | `03a-...front-stela.jpeg` |
 | 003 back | Yucatec Maya text mixed with Spanish + walled site plan by the sea (looks like Tulum) | `03b-...back-maya-text-plan.jpeg` |
-| 004–007 | not yet received | |
+| 004 | Logbook map: two islands, dashed route from NE to a red X, triangle under the X with Maya numerals on its sides, two Maya glyphs at the corners, "The farthest point where South meets West", later marks 892 / 55 | `04-eldoria-004-logbook-map.jpeg` |
+| 005 | Spanish ship's log, days 21–32, six legs with blank lat/long boxes | `05-eldoria-005-spanish-log.jpeg` |
+| 006–007 | not yet received | |
 
 ## Clues and progress
 | Clue | What it says | Our reading | Confidence |
@@ -38,6 +40,19 @@ From the Supplementary Analysis Note (`documents/00-supplementary-analysis-note.
 5. Find the place of the words, where fire does not burn, but where every word turns to fire.
 
 Reading: sunrise over the sea + low walls = Tulum. Point candidates: Temple of the Wind God (rocky point, top right of plan) or El Castillo.
+
+## ELDORIA-005 legs (nautical miles)
+| Day | Heading | Distance | Notes |
+|---|---|---|---|
+| 21 | E | 200 (to 1st waypoint) | 4 knots |
+| 23 | N | 175 | warm current, Corona Borealis |
+| 26 | NE | 150 | needle restless; next: point with black cross |
+| 28 | E | 250 | green light under water |
+| 30 | N | 114 | to "the appointed place"; compass frozen on N |
+| 32 | W (by compass) | 230 | compass fixed to the EAST, so true heading is suspect |
+
+Net from start to the Day 30 point: 556 nm E, 395 nm N (6.58° of latitude).
+Start point is unknown; possibly the X on 004.
 
 ## Candidate places
 | Place | Coordinates | Why | Confirmed? |
