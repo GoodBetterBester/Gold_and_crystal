@@ -113,3 +113,6 @@ The 007 grid is 4 rows × 7 boxes, so each of the four locations gives a **7-let
 - "The farthest point where South meets West" → SW end of the big reef ≈ **15.80 N, 78.75 W** (from Sentinel-2 shallow-water outline; rough, refine on satellite view). On the south-up sketch this is the top-right tip, where there is a dark red blot.
 
 - **005 check (2026-11-12):** running the log as written from Bajo Nuevo ends Day 32 on Mayaguana (006), latitude within 0.01° of its centroid. 004 → 005 → 006 form one path. Treat 004 = Bajo Nuevo as KNOW (pending Garath's OK). See transcripts/005.
+
+## 007 name SOLVED (2026-11-12) — KNOW
+Grid = BIMINI + MAYAGUANA + BAJONUEVO + ZAMA (north, east, south, west) → number list gives **MARAVILLAS**. Unique among all 24 orders. Confirms 004 = Bajo Nuevo. Wreck location still open (see transcripts/007-key.md).
