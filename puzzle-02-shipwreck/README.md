@@ -81,6 +81,10 @@ The 007 grid is 4 rows × 7 boxes, so each of the four locations gives a **7-let
 - Bottom-left glyph = the glyph on 002 (Bimini). Bottom-right glyph = presumably 003 (Tulum/Zamá) (Garath).
 - Side marks: Bimini–X "II" (Maya 10), Tulum–X "bar+dot" (Maya 6), base "1 + shell" (10?). Bimini–Tulum = 1036 km (560 nm).
 - With 10 : 6 : 10 and X on the side shown in the drawing → X ≈ 16.9 N, 82.7 W (open Caribbean, east of the Swan Islands).
-- **Candidate islands: Swan Islands (Islas del Cisne, Honduras)** — two islands almost touching, matches the sketch turned 180°. `images/004-swan-islands.png`.
+- ~~Candidate islands: Swan Islands~~ REJECTED by Garath. Swan Islands (Islas del Cisne, Honduras)** — two islands almost touching, matches the sketch turned 180°. `images/004-swan-islands.png`.
 - "The farthest point where South meets West" → SW tip of Great Swan: **17.4004 N, 83.9430 W**.
 - 892 / 55 not yet used.
+
+## KEEP FOR LATER
+- **003 answer word: ZAMA** (Tulum's old name). Helper: "note ZAMA down, you will need it later" (probably the 007 grid).
+- 002 word: ESCUALO.
