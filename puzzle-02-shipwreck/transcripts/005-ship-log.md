@@ -38,3 +38,5 @@ Every waypoint lands on a recognisable place, which is suggestive, but the log s
 - Day 30 N114 → 23.86 N, 72.80 W (open Atlantic)
 - Day 32 W230 → 23.86 N, 76.99 W (Great Bahama Bank, near Exuma); if really East → 23.86 N, 68.6 W (open Atlantic)
 All waypoints are at sea.
+- Reading of the full English log (Garath, 2026-11-12): day 30 ends "at the appointed place" ("114 miles to the appointed place … tomorrow our last leg"); day 32 is the flight away. → **005 precise point = end of day 30 ≈ 23.86 N, 72.80 W** (SUSPECT, strong).
+- Day 26 "black cross on the chart" ≈ 21.96 N, 77.29 W — may line up with a cross on the 007 chart.
