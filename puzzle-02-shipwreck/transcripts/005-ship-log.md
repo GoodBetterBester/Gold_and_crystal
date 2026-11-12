@@ -18,3 +18,13 @@ Image: `../documents/005-spanish-ship-log.jpeg` (Spanish original). Each entry e
 - Starting point unknown. Candidate: the red X on ELDORIA-004.
 - "Corrected longitude" may mean correcting for the faulty compass (Day 32) or for magnetic variation.
 - Use `../tools/dead_reckoning.py` to run the legs from any start point.
+
+## Test run from Tulum (2026-11-12) — SUSPECT, not confirmed
+Start 20.2155 N, 87.4285 W (Temple of the Wind God):
+- Day 21 E200 → 20.22 N, 83.88 W (sea, SW of Cuba)
+- Day 23 N175 → 23.13 N, 83.88 W (just off NW Cuba)
+- Day 26 NE150 → 24.90 N, 81.94 W (off Key West / Marquesas Keys; "tomorrow the black cross")
+- Day 28 E250 → 24.90 N, 77.35 W (Exuma Sound / Eleuthera area)
+- Day 30 N114 → 26.80 N, 77.35 W (near Abaco)
+- Day 32 W230 → 26.80 N, 81.64 W (on land in SW Florida); if the reversed compass means the true heading was East → 26.80 N, 73.05 W (open Atlantic)
+Every waypoint lands on a recognisable place, which is suggestive, but the log should start from the 004 X, which we have not located.
