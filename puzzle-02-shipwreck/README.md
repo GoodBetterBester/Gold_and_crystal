@@ -30,27 +30,30 @@ The "892 / 55" marks on ELDORIA-004 were added later and are "not immediately re
 | 006 | Long, thin, curved island with a hooked north end. "Where the four hold their balance" | `006-island-four-balance.jpeg` | below |
 | 007 | Key. Front: Spanish poem, 4 × 7 box grid, number list. Back: "Overlay the charts / Let the crosses meet / The wreck shall be revealed" + island chart | `007a-…`, `007b-…` | `transcripts/007-key.md` |
 
-## Which documents are the four maps?
-| # | Map | Place (guess) | Precise point (guess) | Confidence |
-|---|---|---|---|---|
-| 1 | 002 back | **Bimini** (North Bimini hook + lagoon, South Bimini below; see `images/002-island-lineup.png`) | South Bimini "Fountain of Youth" well, or Shark Lab (ESCUALO)? | medium |
-| 2 | 003 back | **Tulum**, Mexico (20.2148 N, 87.4290 W) | Temple of the Wind God or El Castillo | medium |
-| 3 | 004 | ? (two islands) | SW tip ("where South meets West"), red X | low |
-| 4 | 006 | ? long island (Eleuthera? Long Island?) | "where the four hold their balance" (centre point?) | low |
-
-005 is a route, probably starting from the 004 X, not a map of its own.
-
-## Clues and progress
-| Clue | Our reading | Confidence |
+## What we KNOW (confirmed)
+| Item | Fact | How we know |
 |---|---|---|
-| 002 front (Templar cipher) | **SOLVED:** "RECORDAD A JPDL EL HOMBRE QUE BUSCO LA VIDA ETERNA" = remember Juan Ponce de León. See `transcripts/002-templar-cipher.md` | high |
-| 002 back: 15 boxes | JUANPONCEDELEON fits exactly; marked boxes give E _ C U A L O = **ESCUALO** (shark) → the shark legs in 005 | medium |
-| 003 header `e2 b3 d1 d3 a4 d1` | grid references into the stela numerals | low |
-| 004 triangle numerals | about 10 (left), 6 (right), 5 or 10 (bottom); maybe distances or bearings | low |
-| 005 legs | net to Day 30 point: 556 nm E, 395 nm N; Day 32 compass fixed to East | medium |
-| 007 "four winds keep the order" | the four maps go in a fixed order (cold, light, fire, shadow) | low |
-| 007 numbers `27, 17, 20+4, 8, 23, 6, 19-3, 11+5, 15, 25-7` | index into the 28 boxes, possibly with letter shifts | low |
-| 007 "overlay the charts, let the crosses meet" | line up the X/cross on each map; the wreck is where they meet | medium |
+| 002 front | Templar cipher → "RECORDAD A JPDL EL HOMBRE QUE BUSCO LA VIDA ETERNA" (Juan Ponce de León) | every one of 41 symbols fits |
+| 002 back boxes | 15 boxes = JUANPONCEDELEON; numbered boxes spell ESCUALO (shark) | Garath: "=" is a wave |
+| 002 back map | **Bimini** (North + South Bimini, lagoon islets) | satellite outline matches line for line |
+| 002 back line | vertical line ≈ 79°15′W meridian | affine fit of sketch to satellite |
+| 007 back chart | **Cuba region rotated 90° clockwise** (north to the right): Cuba, Isla de la Juventud, S Florida, Andros/Bahamas, Hispaniola | Garath spotted it; satellite overlay confirms |
+| 007 "four winds" | cold, light, fire, shadow = four ordered slots | text |
+| Discord | 007: names go in the 4 × 7 boxes left→right, top→bottom, in order; answer is a point in the sea | other players |
+| Discord | 003 header = tiles on the stela; 003's place feeds into 004 | other players |
+
+## What we SUSPECT (not confirmed)
+| Item | Suspicion | Confidence |
+|---|---|---|
+| 003 back | site plan is Tulum (walls on 3 sides, sea to the east; text about sunrise over the sea) | medium |
+| 002 point | where the 79°15′W line meets something (box row ≈ 25.718N 79.246W?) | low |
+| 005 | log starts from the 004 X; "black cross" on Day 26; sharks link to ESCUALO | low |
+| 007 order | cold = north, light = east, fire = south, shadow = west | low |
+
+## Rejected (don't retry)
+- 006 = San Andrés, 004 = Providencia/Santa Catalina (Garath: shapes are off).
+- 007 chart = Havana bay close-up (it's the whole Cuba region, rotated).
+- 003 header as 5×5 Polybius square, as paragraph/word index, or as a 6×4 table of the border (see transcripts/003).
 
 ## Answer
 _Not yet. Garath submits; Claude never submits._
