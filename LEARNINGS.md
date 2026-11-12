@@ -27,3 +27,11 @@
 6. Keep a "guesses vs confirmed" table and promote only with evidence.
 7. Look for a self-check (cipher, letter counts, unique solution) before committing.
 8. Never submit until the result is verified; the user submits, not the assistant.
+
+## Better map images (added during puzzle 02)
+- Natural Earth / old OSM-derived coastline files are too coarse for small islands. Don't shape-match with them.
+- Use `shared/tools/satview.py`:
+  - `shape` = ESA WorldCover 2021, 10 m land/water map (crisp coastlines, lakes, lagoons, mangroves in green).
+  - `photo` = Sentinel-2 true colour, 10 m, least-cloudy recent scene.
+  - Both read straight from public AWS buckets, which the sandbox can reach. Needs `pip install rasterio mgrs`.
+- First test: the ELDORIA-002 sketch matches Bimini almost line for line, including the two islets in the lagoon.
