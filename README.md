@@ -18,6 +18,20 @@ Working notes for the Gold & Crystal "Eldoria" hunt.
 
 Crossroads: Havana–Grenada × Ocho Rios–Bermuda (great circles) = 20.02°N 75.84°W, Santiago de Cuba.
 
+## Puzzle 02: the shipwreck (name solved, position open)
+
+- **Wreck name:** `MARAVILLAS` (self-checking, from the 007 grid).
+- **Position:** candidate about 21.47 N, 79.03 W, not confirmed. Not submitted.
+
+| Wind | Doc | Place | Point |
+|---|---|---|---|
+| North | 002 | Bimini | Shark Mound, 25.7491 N, 79.2475 W |
+| East | 006 | Mayaguana | centre, 22.3743 N, 72.9626 W (suspect) |
+| South | 004 | Bajo Nuevo Bank | SW reef tip, about 15.80 N, 78.75 W |
+| West | 003 | Tulum (Zamá) | Temple of the Wind God, about 20.216 N, 87.428 W |
+
+005 is the voyage from 004 to 006. Full write-up: `puzzle-02-shipwreck/README.md`.
+
 ## Layout
 
 Each puzzle has its own folder; shared things live at the top.
@@ -25,8 +39,8 @@ Each puzzle has its own folder; shared things live at the top.
 | Folder | What |
 |---|---|
 | `puzzle-01-key-phrase/` | Stage 1 (solved): `walkthrough.md`, `documents/`, `images/`, `map/`, `tools/` |
-| `puzzle-02-shipwreck/` | Stage 2 (in progress): find 4 places from ELDORIA-001–006, use 007 to locate the shipwreck |
-| `shared/tools/` | Reusable tools (Vigenère decoder) |
+| `puzzle-02-shipwreck/` | Stage 2: name solved, position still a candidate. See its `README.md` |
+| `shared/tools/` | Reusable tools: Vigenère decoder, `satview.py` (satellite shapes and photos), `seabed.py` (reefs and banks) |
 | `LEARNINGS.md` | What worked, mistakes to avoid, checklist for each new puzzle |
 
 For a new puzzle, make `puzzle-NN-name/` with `README.md`, `documents/`, `transcripts/`, `tools/`, `map/`.

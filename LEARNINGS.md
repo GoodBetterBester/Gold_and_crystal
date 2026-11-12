@@ -44,3 +44,17 @@
 - 003's location feeds into 004.
 - 007: the four locations go into the 4 × 7 boxes left to right, top to bottom, in order; final answer is a point in the sea. Don't overcomplicate it.
 - Spoilers read 2026-11-12 (Garath asked): 004 = "triangulation" (Logan Carpenter). Others also stuck on the 004 X and on whether 004/005/006 form a path. Some players solved 004 without 003. Nothing names corners or units.
+
+## Puzzle 02 – what cracked it
+- **Read numbers in the document's own system.** The 004 side marks were Maya base-20 in two places (100, 105, 101), not 10 and 6. We lost hours on the wrong reading. Check the reading against the drawing: the triangle was drawn almost equilateral.
+- **Maps may be turned.** 006 and the 007 chart are rotated 90° clockwise; 004 is south up. Always test all four rotations before rejecting a shape.
+- **"Islands" can be reefs.** Bajo Nuevo has almost no land. Land data cannot see it; use Sentinel-2 photos or `shared/tools/seabed.py`.
+- **Let independent clues check each other.** The 005 log run from the 004 point landed on the 006 island; the 007 grid only spells a word with all four names right. Look for this kind of closure before trusting a place.
+- **Read the log literally first.** Clever re-readings (250 − 114 = 136) were wrong; the legs worked as written once the start was right.
+- **Count letters early.** 6 + 9 + 9 + 4 = 28 boxes would have pointed at the name lengths sooner.
+- **Garath's eye beats shape scores.** Every wrong candidate was rejected on sight; show images early and often.
+
+## Mistakes to avoid (puzzle 02)
+- Saying a route "stays at sea" after checking only some legs. Check every leg before reporting.
+- Guessing place after place by shape near a point that came from a wrong number reading. When several shapes fail, question the numbers.
+- Great-circle versus flat lines can move a crossing by 15+ km. Report both until the game's method is known.
