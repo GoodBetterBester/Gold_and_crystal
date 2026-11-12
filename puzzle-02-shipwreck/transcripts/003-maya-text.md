@@ -100,3 +100,17 @@ Scripts: tools/003_brute_bands.py, tools/003_brute_sides.py, tools/003_score.py.
 - Garath's reading (columns a–e = left + 4 middle, rows 1–4 = the 4 band rows): e2=2 (matches its own numeral), b3=6, d1=1, d3=1, a4=4, d1=1 → **2 6 1 1 4 1**. As letters BFAADA; as positions into JUANPONCEDELEON UOJJNJ, into ESCUALO SLEEUE; as text words "ken disco Le Le jóok'ol Le". Nothing.
 - Side columns (15 distinct numbers each, like the 15 boxes of 002) used as positions / reading order into JUANPONCEDELEON, the 002 plaintext, the Maya text, its first letters, the last sentence, ESCUALO: nothing (tools/003_side_columns.py).
 - Numbers missing from each side column (of 0–19): left {1,2,6,10,14}, right {1,3,5,13,19}. Unused so far.
+
+## Breakthrough on the grid (hint relayed by Garath, 2026-11-12)
+Hint: treat the picture as empty background and the tiles as loose scrabble tiles; transform the tablet so a 6 × 4 grid sits at the top, read the code from it, then apply one more method.
+**KNOW (fits the hint):** slide every tile up into the gaps → 6 columns (a = left column … f = right column) × 4 rows:
+
+| row | a | b | c | d | e | f |
+|---|---|---|---|---|---|---|
+| 1 | 8 | 6 | 4 | 1 | 10 | 16 |
+| 2 | 15 | 5 | 14 | 13 | 2 | 11 |
+| 3 | 7 | 6 | 3 | 1 | 9 | 9 |
+| 4 | 3 | 13 | 2 | 17 | 7 | 8 |
+
+Code e2 b3 d1 d3 a4 d1 → **2 6 1 1 3 1**.
+Last step still unknown. Ruled out: A1Z26 (BFAACA), positions into JUANPONCEDELEON / ESCUALO / 002 sentence / Maya text and each paragraph, Caesar of the code letters (GHEEDE / CVCCXC), base-20 number 7,368,461 and T9, paragraph+word.
