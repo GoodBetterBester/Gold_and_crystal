@@ -76,3 +76,10 @@ The hunt is built on Assassin's Creed IV Black Flag (Resynced, 2026). In the gam
   - e2 "kúuchil t'aano'oba', tu'ux le k'áak'o'" = the place of words, where the fire (!)
   - b3 "juntúule' jach suficiente utia'al u"; d1 "ya'alajo'obe' le kúuchila' ma' u"; d3 "le súutukil ken u péek"; a4 "k'áak'náabo' ku péek ichil le"
 - 4 rows of 25 words: nothing.
+
+## Stela border – CAREFUL re-read (12 Nov), supersedes earlier reading
+Left column, top→bottom (15): 8, 15, 7, 3, 17, 5, 12, 19, 13, 9, 16, 18, 0, 11, 4
+Right column, top→bottom (15): 16, 11, 9, 8, 2, 4, 18, 10, 6, 12, 14, 17, 15, 7, 0
+Top band (between the columns), row 1: 6, 4, 1, 10 · row 2: 5, 14, 13, 2
+Bottom band, row 1: 6, 3, 1, 9 · row 2: 13, 2, 17, 7
+Observation: each side column has 15 different numbers (no repeats). Left lacks 1, 2, 6, 10, 14; right lacks 1, 3, 5, 13, 19.
