@@ -64,3 +64,8 @@ Nothing meaningful yet.
 
 ## Context found
 The hunt is built on Assassin's Creed IV Black Flag (Resynced, 2026). In the game, 16 Mayan stelae are solved by rotating/dragging an outline until it fits real structures; all 16 open a door at Tulum. Same idea as 007 "Overlay the charts".
+
+## Line 5 ("where the fire does not burn, but where every word turns into fire")
+- Literal Maya: "tuláakal t'aan ku suut k'áak'" = every word *returns* as fire. With "one person's word wakes the gods" and "the sound of dawn answers like a breath of wind", the text is about sound and wind.
+- Reading A (suspect): Tulum's **Temple of the Wind God** (whistles in strong sea winds; small building on the headland, top right of the plan). ≈ 20.2155N, 87.4285W (approximate).
+- Reading B: wordplay. k'áak' = fire; k'áak'náab = sea contains it. Maybe pick out the k'áak' words with a key from the stela.
