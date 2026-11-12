@@ -91,3 +91,6 @@ The 007 grid is 4 rows × 7 boxes, so each of the four locations gives a **7-let
 
 ## Precise points (2026-11-12)
 - **002 Bimini: "Shark Mound" 25.7491 N, 79.24753 W** (Garath; ESCUALO = shark). Sits exactly on the 002 meridian line (~79°15′W). KNOW (strong).
+- **003 Tulum: Temple of the Wind God** (≈ 20.216 N, 87.428 W; approximate — refine on a map). Agreed with Garath 2026-11-12 (wind on the shore, sound/breath, sunrise).
+- 004: triangle X ≈ 17.0–17.3 N, 82.66 W (Shark Mound–Tulum base 1038 km). Whether 005 starts here is doubtful (route would cross Cuba).
+- 006 Mayaguana: centroid 22.3743 N, 72.9626 W (suspect).
