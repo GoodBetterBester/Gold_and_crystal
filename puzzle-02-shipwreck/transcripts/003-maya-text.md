@@ -83,3 +83,15 @@ Right column, top→bottom (15): 16, 11, 9, 8, 2, 4, 18, 10, 6, 12, 14, 17, 15, 
 Top band (between the columns), row 1: 6, 4, 1, 10 · row 2: 5, 14, 13, 2
 Bottom band, row 1: 6, 3, 1, 9 · row 2: 13, 2, 17, 7
 Observation: each side column has 15 different numbers (no repeats). Left lacks 1, 2, 6, 10, 14; right lacks 1, 3, 5, 13, 19.
+
+## Brute force of the stela grid (2026-11-12) — result: nothing
+
+Tried every reasonable way of laying an a–e × 1–4 grid on the stela tiles:
+- 5×4 windows over the frame (top/bottom bands, and transposed over the side columns): 8 distinct number sets.
+- Each digit 1–4 picks one of 8 sides (top, top middle, top row 2, bottom, bottom middle, bottom row 1, left, right), either direction; letter a–e = position in that side: 9,522 distinct number sets.
+
+Every set was decoded as A=1 and A=0 letters and checked against 40k-word English/Spanish/Portuguese/French/Italian lists (whole word, two-word splits, reversed). No set gives a real 6-letter word; the only "hits" are chance 3+3 splits (ROB CAB, REN KEN…), which is what 9.5k random tries produce. Word-index decoding into the 100-word Maya text is also incoherent.
+
+**Conclusion (KNOW):** the code is not "grid coordinate → stela number → letter". Either the grid is something else (e.g. the 5×4 word grid of the Maya text, where e2 = "kúuchil t'aano'oba', tu'ux le k'áak'o'"), or the numbers need the "one more step" the Discord hint mentions.
+
+Scripts: tools/003_brute_bands.py, tools/003_brute_sides.py, tools/003_score.py.
