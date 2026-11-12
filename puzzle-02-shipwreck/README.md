@@ -65,3 +65,10 @@ _Not yet. Garath submits; Claude never submits._
 **SUSPECT — point:** "where the four hold their balance" = the island's balance point (centroid). From 10 m WorldCover: **22.3743 N, 72.9626 W** (bounding-box centre 22.3698 N, 72.9497 W). Not confirmed.
 
 Eleuthera, Cat Island and Long Island were checked and do not fit (`images/006-other-candidates.png`).
+
+## 004 work (2026-11-12)
+
+- Searched every pair of nearby islands in the atlas (any rotation) against the two 004 shapes: no convincing land match (best scores are noise or mirrored).
+- The drawing style (hatched rim, blotchy interior) looks like a **reef atoll**, which the land data cannot see. Compared Sentinel-2 photos of Banco Chinchorro, Turneffe, Lighthouse Reef, Glover's Reef, Alacranes, Hogsty: `images/004-atoll-candidates.png`.
+- **SUSPECT (weak):** Banco Chinchorro (two lobes with a waist, ~250 km south of Tulum, fits "003 feeds 004"). Not confirmed.
+- Inagua, Providencia (rejected earlier) do not fit.
