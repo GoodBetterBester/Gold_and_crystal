@@ -28,3 +28,13 @@ Start 20.2155 N, 87.4285 W (Temple of the Wind God):
 - Day 30 N114 → 26.80 N, 77.35 W (near Abaco)
 - Day 32 W230 → 26.80 N, 81.64 W (on land in SW Florida); if the reversed compass means the true heading was East → 26.80 N, 73.05 W (open Atlantic)
 Every waypoint lands on a recognisable place, which is suggestive, but the log should start from the 004 X, which we have not located.
+
+## Run from the 004 triangle point (2026-11-12) — SUSPECT
+004 triangle (Garath: Bimini–Tulum ≈ 1040 km = base "10" → unit ≈ 100 km; Bimini–X 1000 km, Tulum–X 600 km) → start **17.2742 N, 82.6746 W** (sea, Swan Islands to the west).
+- Day 21 E200 → 17.27 N, 79.18 W (sea, SW of Jamaica)
+- Day 23 N175 → 20.19 N, 79.18 W (sea, south of central Cuba)
+- Day 26 NE150 → 21.96 N, 77.29 W (sea, just off Cuba's north coast near Nuevitas)
+- Day 28 E250 → 21.96 N, 72.80 W (sea, ~48 km from Mayaguana = 006!)
+- Day 30 N114 → 23.86 N, 72.80 W (open Atlantic)
+- Day 32 W230 → 23.86 N, 76.99 W (Great Bahama Bank, near Exuma); if really East → 23.86 N, 68.6 W (open Atlantic)
+All waypoints are at sea.
