@@ -104,3 +104,10 @@ The 007 grid is 4 rows × 7 boxes, so each of the four locations gives a **7-let
 ## 004 status (2026-11-12, later)
 - Discord spoiler: 004 is a **triangulation** (KNOW). Corners and units unknown.
 - Garath's side reading: 1000 km, 1010 km, 100 km. With Bimini as a corner this always puts X at ~16.7–17.7 N (Swan / Pedro / Jamaica belt) — all shapes there rejected. Pedro Bank REJECTED. So probably the corners are not Bimini/Tulum, or the units differ.
+
+## 004 = Bajo Nuevo Bank (2026-11-12) — SUSPECT (strong; three clues agree, waiting on Garath)
+- Triangle side marks read as **Maya base-20 numbers** (bar 5, dot 1, shell 0; two-place): base bar·shell = 5×20+0 = **100**, left bar·bar = 5×20+5 = **105**, right bar·dot = 5×20+1 = **101**. (Garath read 100 / 101 / 10; the drawn triangle is nearly equilateral, which fits 100/105/101.)
+- Base = Shark Mound (Bimini) to Tulum Temple of the Wind God = 1038 km = 100 units → Bimini–X 1090 km, Tulum–X 1049 km → **X = 15.9215 N, 78.5948 W** (southern solution).
+- That is **Bajo Nuevo Bank** (Petrel Islands, ~15.88 N 78.63 W): two reef complexes almost touching, small NE one and big SW one. Turned 180° (south up) it matches the sketch: small left, big right, reef rim on top. South-up also explains the triangle: Bimini bottom-left, Tulum bottom-right, X above. `images/004-bajo-nuevo-compare.png`.
+- The point also lies inside the only western-Caribbean zone where the 005 legs stay at sea (15.3–16.7 N, 78.0–79.2 W).
+- "The farthest point where South meets West" → SW end of the big reef ≈ **15.80 N, 78.75 W** (from Sentinel-2 shallow-water outline; rough, refine on satellite view). On the south-up sketch this is the top-right tip, where there is a dark red blot.
