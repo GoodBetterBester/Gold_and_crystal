@@ -62,7 +62,7 @@ def scenes(lat, lon, months):
 def photo(lat0, lat1, lon0, lon1, px=900):
     W, H, T = grid(lat0, lat1, lon0, lon1, px)
     months = [(2025, m) for m in (4, 3, 2, 1)] + [(2024, m) for m in (12, 11, 5, 4, 3)]
-    best = sorted(scenes((lat0 + lat1) / 2, (lon0 + lon1) / 2, months))[:3]
+    best = sorted(scenes((lat0 + lat1) / 2, (lon0 + lon1) / 2, months))[:12]
     out = np.zeros((3, H, W), np.uint8)
     for cc, url in best:
         tmp = np.zeros((3, H, W), np.uint8)
@@ -70,9 +70,11 @@ def photo(lat0, lat1, lon0, lon1, px=900):
             for i in range(3):
                 reproject(rasterio.band(r, i + 1), tmp[i], dst_transform=T, dst_crs='EPSG:4326',
                           resampling=Resampling.bilinear)
-        hole = out.sum(0) == 0
+        hole = (out.sum(0) == 0) & (tmp.sum(0) > 0)
+        if not hole.any():
+            continue  # scene adds nothing (often a tile-edge sliver reported as 0% cloud)
         out[:, hole] = tmp[:, hole]
-        print(f'used scene cloud {cc:.0f}%')
+        print(f'used scene cloud {cc:.0f}%, filled {hole.mean():.0%}')
         if (out.sum(0) == 0).mean() < 0.01: break
     return Image.fromarray(out.transpose(1, 2, 0))
 
