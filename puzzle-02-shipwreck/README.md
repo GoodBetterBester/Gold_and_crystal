@@ -111,3 +111,5 @@ The 007 grid is 4 rows × 7 boxes, so each of the four locations gives a **7-let
 - That is **Bajo Nuevo Bank** (Petrel Islands, ~15.88 N 78.63 W): two reef complexes almost touching, small NE one and big SW one. Turned 180° (south up) it matches the sketch: small left, big right, reef rim on top. South-up also explains the triangle: Bimini bottom-left, Tulum bottom-right, X above. `images/004-bajo-nuevo-compare.png`.
 - The point also lies inside the only western-Caribbean zone where the 005 legs stay at sea (15.3–16.7 N, 78.0–79.2 W).
 - "The farthest point where South meets West" → SW end of the big reef ≈ **15.80 N, 78.75 W** (from Sentinel-2 shallow-water outline; rough, refine on satellite view). On the south-up sketch this is the top-right tip, where there is a dark red blot.
+
+- **005 check (2026-11-12):** running the log as written from Bajo Nuevo ends Day 32 on Mayaguana (006), latitude within 0.01° of its centroid. 004 → 005 → 006 form one path. Treat 004 = Bajo Nuevo as KNOW (pending Garath's OK). See transcripts/005.

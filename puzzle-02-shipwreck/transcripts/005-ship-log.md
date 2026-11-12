@@ -48,3 +48,10 @@ All waypoints are at sea.
 - Sea-only start search (0.1° grid, legs E200 N175 NE150 E136 N114): in the western Caribbean only **15.3–16.7 N, 78.0–79.2 W** works (south of Jamaica, Pedro Bank area). Route then goes through the Windward Passage; appointed place lands at **21.9–23.3 N, 70.2–71.5 W** (north/north-east of Turks & Caicos, inside the Bermuda Triangle).
 - Example: start 15.9 N 78.4 W → 15.9 N 74.93 W → 18.82 N 74.93 W → 20.58 N 73.06 W → 20.58 N 70.64 W → **22.48 N 70.64 W**.
 - Map of sea-only starts: shared folder `005-possible-starts.png` (dots are faint).
+
+## Run from Bajo Nuevo (004) — 2026-11-12 — strong confirmation
+Legs exactly as written (E200, N175, NE150, E250, N114, W230; nautical miles), start = SW end of Bajo Nuevo 15.80 N, 78.75 W:
+- Day 21 → 15.80 N, 75.29 W · Day 23 → 18.72 N, 75.29 W · Day 26 → 20.48 N, 73.41 W (Windward Passage) · Day 28 → 20.48 N, 68.96 W · Day 30 → 22.38 N, 68.96 W · **Day 32 → 22.384 N, 73.107 W = Mayaguana (006)**; landfall on its east end at ~72.85 W. Mayaguana centroid latitude is 22.374 N.
+- From the triangle X itself (15.9215 N, 78.5948 W) the last leg ends 15 km from Mayaguana's centroid (22.506 N, 72.948 W).
+- All legs at sea. So 004 → 005 → 006 is one path. The "136 nm east" reading is NOT needed (it ends 200+ km from Mayaguana).
+- Map: `../images/005-voyage-from-bajo-nuevo.png`.
