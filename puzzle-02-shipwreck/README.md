@@ -60,8 +60,8 @@ _Not yet. Garath submits; Claude never submits._
 
 ## 006 update (2026-11-12)
 
-**SUSPECT (strong):** 006 is **Mayaguana** (Bahamas), drawn rotated 90° clockwise (north points right), the same rotation as the 007 chart. The hook at the top right is the NW lobe, the bump halfway down the right side matches, and the SW tail with a small islet is the east end. Best shape score of all 880 islands (IoU 0.77). See `images/006-mayaguana-rotated.png`.
+**KNOW (confirmed by Garath 2026-11-12):** 006 is **Mayaguana** (Bahamas), drawn rotated 90° clockwise (north points right), the same rotation as the 007 chart. The hook at the top right is the NW lobe, the bump halfway down the right side matches, and the SW tail with a small islet is the east end. Best shape score of all 880 islands (IoU 0.77). See `images/006-mayaguana-rotated.png`.
 
-**Point idea:** "where the four hold their balance" = the island's balance point (centroid). From 10 m WorldCover: **22.3743 N, 72.9626 W** (bounding-box centre 22.3698 N, 72.9497 W). Not confirmed.
+**SUSPECT — point:** "where the four hold their balance" = the island's balance point (centroid). From 10 m WorldCover: **22.3743 N, 72.9626 W** (bounding-box centre 22.3698 N, 72.9497 W). Not confirmed.
 
 Eleuthera, Cat Island and Long Island were checked and do not fit (`images/006-other-candidates.png`).
