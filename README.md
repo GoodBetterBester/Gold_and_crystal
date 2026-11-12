@@ -18,6 +18,9 @@ Working notes for the Gold & Crystal "Eldoria" hunt.
 
 Crossroads: Havana–Grenada × Ocho Rios–Bermuda (great circles) = 20.02°N 75.84°W, Santiago de Cuba.
 
+## Hunt status (12 Nov 2026)
+The official hunt has started. Answers can no longer be entered on the site to unlock the next stage (Garath). Players on Discord think the solutions are kept for later, to reveal the chest locations. So there is no feedback from the site any more: rely on self-checks (cipher output, unique words, routes that close) and keep every answer recorded here.
+
 ## Puzzle 02: the shipwreck (name solved, position open)
 
 - **Wreck name:** `MARAVILLAS` (self-checking, from the 007 grid).
