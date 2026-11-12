@@ -88,3 +88,6 @@ The 007 grid is 4 rows × 7 boxes, so each of the four locations gives a **7-let
 ## KEEP FOR LATER
 - **003 answer word: ZAMA** (Tulum's old name). Helper: "note ZAMA down, you will need it later" (probably the 007 grid).
 - 002 word: ESCUALO.
+
+## Precise points (2026-11-12)
+- **002 Bimini: "Shark Mound" 25.7491 N, 79.24753 W** (Garath; ESCUALO = shark). Sits exactly on the 002 meridian line (~79°15′W). KNOW (strong).
