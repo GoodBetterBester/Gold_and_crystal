@@ -76,3 +76,11 @@ Eleuthera, Cat Island and Long Island were checked and do not fit (`images/006-o
 ## 007 grid insight (Garath, 2026-11-12) — SUSPECT (strong)
 The 007 grid is 4 rows × 7 boxes, so each of the four locations gives a **7-letter word**, one per row. 002 fits: **ESCUALO** (7 letters). So row answers are hidden words, not the place names (Bimini, Tulum, Mayaguana).
 - 003: the code `e2 b3 d1 d3 a4 d1` has only 6 pairs, and d1 repeats → the 7-letter word repeats a letter; the 7th letter must come from somewhere else (or our grid reading is wrong).
+
+## 004 triangle (2026-11-12) — SUSPECT
+- Bottom-left glyph = the glyph on 002 (Bimini). Bottom-right glyph = presumably 003 (Tulum/Zamá) (Garath).
+- Side marks: Bimini–X "II" (Maya 10), Tulum–X "bar+dot" (Maya 6), base "1 + shell" (10?). Bimini–Tulum = 1036 km (560 nm).
+- With 10 : 6 : 10 and X on the side shown in the drawing → X ≈ 16.9 N, 82.7 W (open Caribbean, east of the Swan Islands).
+- **Candidate islands: Swan Islands (Islas del Cisne, Honduras)** — two islands almost touching, matches the sketch turned 180°. `images/004-swan-islands.png`.
+- "The farthest point where South meets West" → SW tip of Great Swan: **17.4004 N, 83.9430 W**.
+- 892 / 55 not yet used.
