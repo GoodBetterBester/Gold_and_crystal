@@ -5,11 +5,17 @@ New trail, separate from the two practice puzzles. Files downloaded by Garath on
 ## Briefing (ELDORIA-001) – what it says
 - Abstergo bought documents that belonged to the pirate **Edward James Kenway**; they trace his search for **Eldoria**.
 - Reopened after a **sealed bottle** was found, with an encrypted **parchment** bearing one readable word: ELDORIA.
-- A **map of the Caribbean** is part of the same trail. *(Not in our files yet.)*
+- A **map of the Caribbean** is part of the same trail. It is an interactive zoomable map on the site (Dossier → Map), not downloadable. Overview screenshot: `documents/MAP-overview-screenshot.png`. Zoom in on the site for detail when a puzzle needs it.
 - Decipher the documents **in numerical order**; each one is needed for the next.
 - **Three intermediate chests** become findable after **ELDORIA-003, 006 and 009**. Examine their contents carefully.
 - The documents, the bottle, the Caribbean map and the three chests form a single trail.
 - Translations and answer submission: eldoria.unsolved-games.com.
+
+## Site rules (from the home page, 12 Nov)
+- Chest locations are sent as **degrees, minutes, seconds (WGS84)** via "Locate a chest".
+- **Only one transmission per employee, per chest, per week.** Check everything before Garath sends.
+- Each chest found is announced to everyone and brings new documents.
+- The Eldoria treasure location can only be sent after all three chests are found.
 
 ## Files
 | File | What | Language (bar) |
