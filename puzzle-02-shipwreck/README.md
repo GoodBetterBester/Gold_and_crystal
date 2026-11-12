@@ -95,7 +95,7 @@ The 007 grid is 4 rows × 7 boxes, so each of the four locations gives a **7-let
 - 004: triangle X ≈ 17.0–17.3 N, 82.66 W (Shark Mound–Tulum base 1038 km). Whether 005 starts here is doubtful (route would cross Cuba).
 - 006 Mayaguana: centroid 22.3743 N, 72.9626 W (suspect).
 
-## 004 islands: Isla Margarita (2026-11-12) — SUSPECT (strong shape match, waiting on Garath)
+## 004 islands: Isla Margarita (2026-11-12) — REJECTED by Garath ("shape is way wrong")
 - Garath: the triangle distances and all earlier candidates (Corn Is., Providencia, Swan, atolls) do not match.
 - New candidate: **Isla Margarita (Venezuela)**. Small west lobe (Macanao) + bigger, pointed east lobe, joined at the bottom by a thin strip (La Restinga) — same layout as the sketch, north-up, no rotation. Mangrove lagoon matches the sketch's blotchy interior. `images/004-margarita-compare.png`.
 - "The farthest point where South meets West" = SW extreme, which is also the westernmost point: **Punta Arenas, 10.9722 N, 64.4081 W** (WorldCover 10 m).

@@ -40,3 +40,11 @@ Every waypoint lands on a recognisable place, which is suggestive, but the log s
 All waypoints are at sea.
 - Reading of the full English log (Garath, 2026-11-12): day 30 ends "at the appointed place" ("114 miles to the appointed place … tomorrow our last leg"); day 32 is the flight away. → **005 precise point = end of day 30 ≈ 23.86 N, 72.80 W** (SUSPECT, strong).
 - Day 26 "black cross on the chart" ≈ 21.96 N, 77.29 W — may line up with a cross on the 007 chart.
+
+## Re-plot with "miles remaining" reading (2026-11-12) — SUSPECT
+- Day 28 "250 miles remained to be crossed" and Day 30 "114 miles to the appointed place" read as distance still to go → east leg = 250 − 114 = **136 nm** (not 250).
+- Day 26 note: 150 nm "covered on this new course" though they turned "at first light" → turn was probably earlier; black cross is reached "tomorrow" (day 27), beyond this leg.
+- From the Swan Islands X (17.27 N, 82.67 W) the Day 26 NE leg crosses Cuba under either reading, even with compass offsets of ±60° → that start is WRONG.
+- Sea-only start search (0.1° grid, legs E200 N175 NE150 E136 N114): in the western Caribbean only **15.3–16.7 N, 78.0–79.2 W** works (south of Jamaica, Pedro Bank area). Route then goes through the Windward Passage; appointed place lands at **21.9–23.3 N, 70.2–71.5 W** (north/north-east of Turks & Caicos, inside the Bermuda Triangle).
+- Example: start 15.9 N 78.4 W → 15.9 N 74.93 W → 18.82 N 74.93 W → 20.58 N 73.06 W → 20.58 N 70.64 W → **22.48 N 70.64 W**.
+- Map of sea-only starts: shared folder `005-possible-starts.png` (dots are faint).
