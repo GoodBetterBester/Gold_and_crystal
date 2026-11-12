@@ -34,3 +34,18 @@ tuláakal t'aan ku suut k'áak'.
 ## Reading
 - Sunrise over the sea, low walls, site plan with walls on three sides and the sea to the east → **Tulum**.
 - Precise point candidates: Temple of the Wind God (rocky point, top right of the plan) or El Castillo.
+
+## Front border – numeral reading (bar = 5, dot = 1, shell = 0)
+Layout: left column 15 cells, right column 15 cells, top band 4 × 2 between them, bottom band 4 × 2.
+
+- Top band, row 1 (left corner … right corner): 8 | 6 4 1 10 | 16
+- Top band, row 2: 15 | 5 14 13 2 | 11
+- Left column, top to bottom: 8, 15, 7, 3, 17, 5, 12, 14, 13, 9, 16, 18, 0, 6, 4
+- Bottom band, row 1: 6 3 1 9
+- Bottom band, row 2: 13 2 17 7
+- Right column: 16, 11, 9, 8, 2, 4, 18, 10, 6, 12, 14, 17, 15, 2?, 0 (shell) … (rough, needs a second look)
+
+Ideas tried for `e2 b3 d1 d3 a4 d1` (none confirmed):
+- Polybius square (5 × 5): WHQSDQ / KMDOQD – nonsense.
+- Back text has exactly 5 paragraphs (a–e) → word/line 1–4: gives "le, ofrenda, Le, máako'obo', jóok'ol, Le" – nonsense.
+- A grid of 5 columns × 4 rows somewhere (top/bottom bands are 4 wide; maybe plus a column).
