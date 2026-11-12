@@ -35,3 +35,11 @@
   - `photo` = Sentinel-2 true colour, 10 m, least-cloudy recent scene.
   - Both read straight from public AWS buckets, which the sandbox can reach. Needs `pip install rasterio mgrs`.
 - First test: the ELDORIA-002 sketch matches Bimini almost line for line, including the two islets in the lagoon.
+
+## Discord (mistake to avoid)
+- When reading the Discord in Garath's browser, a click meant for the search box landed in the chat box and posted "003 tiles" under his name. Never click by coordinates near the top bar in Discord; locate the search box by its element reference, and prefer reading channels with page-text extraction only.
+
+## Discord nudges for puzzle 02 (no spoilers)
+- 003: the header refers to tiles on the stela; players convert those Maya numerals to numbers, then need one more step.
+- 003's location feeds into 004.
+- 007: the four locations go into the 4 × 7 boxes left to right, top to bottom, in order; final answer is a point in the sea. Don't overcomplicate it.
