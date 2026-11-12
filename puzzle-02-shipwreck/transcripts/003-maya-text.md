@@ -114,3 +114,7 @@ Hint: treat the picture as empty background and the tiles as loose scrabble tile
 
 Code e2 b3 d1 d3 a4 d1 → **2 6 1 1 3 1**.
 Last step still unknown. Ruled out: A1Z26 (BFAACA), positions into JUANPONCEDELEON / ESCUALO / 002 sentence / Maya text and each paragraph, Caesar of the code letters (GHEEDE / CVCCXC), base-20 number 7,368,461 and T9, paragraph+word.
+
+## SOLVED (2026-11-12) — SUSPECT (very strong, pending Garath/helper confirmation)
+Read 2 6 1 1 3 1 as one digit string and split for A=1: **26 · 1 · 13 · 1 = Z A M A**.
+**Zamá** = the ancient Maya name of Tulum ("dawn"), matching the sunrise text. Helper said the answer is a standalone word, not a number, not 6 letters.
