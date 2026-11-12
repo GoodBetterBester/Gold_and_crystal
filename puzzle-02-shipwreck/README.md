@@ -72,3 +72,7 @@ Eleuthera, Cat Island and Long Island were checked and do not fit (`images/006-o
 - The drawing style (hatched rim, blotchy interior) looks like a **reef atoll**, which the land data cannot see. Compared Sentinel-2 photos of Banco Chinchorro, Turneffe, Lighthouse Reef, Glover's Reef, Alacranes, Hogsty: `images/004-atoll-candidates.png`.
 - **SUSPECT (weak):** Banco Chinchorro (two lobes with a waist, ~250 km south of Tulum, fits "003 feeds 004"). Not confirmed.
 - Inagua, Providencia (rejected earlier) do not fit.
+
+## 007 grid insight (Garath, 2026-11-12) — SUSPECT (strong)
+The 007 grid is 4 rows × 7 boxes, so each of the four locations gives a **7-letter word**, one per row. 002 fits: **ESCUALO** (7 letters). So row answers are hidden words, not the place names (Bimini, Tulum, Mayaguana).
+- 003: the code `e2 b3 d1 d3 a4 d1` has only 6 pairs, and d1 repeats → the 7-letter word repeats a letter; the 7th letter must come from somewhere else (or our grid reading is wrong).
