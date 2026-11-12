@@ -69,3 +69,10 @@ The hunt is built on Assassin's Creed IV Black Flag (Resynced, 2026). In the gam
 - Literal Maya: "tuláakal t'aan ku suut k'áak'" = every word *returns* as fire. With "one person's word wakes the gods" and "the sound of dawn answers like a breath of wind", the text is about sound and wind.
 - Reading A (suspect): Tulum's **Temple of the Wind God** (whistles in strong sea winds; small building on the headland, top right of the plan). ≈ 20.2155N, 87.4285W (approximate).
 - Reading B: wordplay. k'áak' = fire; k'áak'náab = sea contains it. Maybe pick out the k'áak' words with a key from the stela.
+
+## Word-grid tests (back text = exactly 100 words, last word k'áak' "fire"; 3 words contain k'áak': #16, #90, #100)
+- 10 × 10 grid, letter = column, number = row: jáal, tuunicho'obo', jóok'ol, mix, juntúule', jóok'ol (shore, stones, rise, neither, one person, rise). Not a message.
+- 5 × 4 grid, 5 columns of 20 words (a–e), 4 cells of 5 words down each:
+  - e2 "kúuchil t'aano'oba', tu'ux le k'áak'o'" = the place of words, where the fire (!)
+  - b3 "juntúule' jach suficiente utia'al u"; d1 "ya'alajo'obe' le kúuchila' ma' u"; d3 "le súutukil ken u péek"; a4 "k'áak'náabo' ku péek ichil le"
+- 4 rows of 25 words: nothing.
