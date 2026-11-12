@@ -49,3 +49,18 @@ Ideas tried for `e2 b3 d1 d3 a4 d1` (none confirmed):
 - Polybius square (5 × 5): WHQSDQ / KMDOQD – nonsense.
 - Back text has exactly 5 paragraphs (a–e) → word/line 1–4: gives "le, ofrenda, Le, máako'obo', jóok'ol, Le" – nonsense.
 - A grid of 5 columns × 4 rows somewhere (top/bottom bands are 4 wide; maybe plus a column).
+
+### Stela-as-table test (rows = top1, top2, bottom1, bottom2; corner cells from the side columns)
+| row | L | m1 | m2 | m3 | m4 | R |
+|---|---|---|---|---|---|---|
+| top 1 | 8 | 6 | 4 | 1 | 10 | 16 |
+| top 2 | 15 | 5 | 14 | 13 | 2 | 11 |
+| bottom 1 | 6 | 6 | 3 | 1 | 9 | ? |
+| bottom 2 | 4 | 13 | 2 | 17 | 7 | 0 |
+- a=L…e=m4, rows top→bottom: 2 6 1 1 4 1
+- a=m1…e=R, rows top→bottom: 11 3 10 9 13 10 (K C J I M J)
+- a=L…e=m4, rows bottom→top: 9 5 17 13 8 17 (I E Q M H Q)
+Nothing meaningful yet.
+
+## Context found
+The hunt is built on Assassin's Creed IV Black Flag (Resynced, 2026). In the game, 16 Mayan stelae are solved by rotating/dragging an outline until it fits real structures; all 16 open a door at Tulum. Same idea as 007 "Overlay the charts".
