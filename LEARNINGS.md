@@ -43,3 +43,4 @@
 - 003: the header refers to tiles on the stela; players convert those Maya numerals to numbers, then need one more step.
 - 003's location feeds into 004.
 - 007: the four locations go into the 4 × 7 boxes left to right, top to bottom, in order; final answer is a point in the sea. Don't overcomplicate it.
+- Spoilers read 2026-11-12 (Garath asked): 004 = "triangulation" (Logan Carpenter). Others also stuck on the 004 X and on whether 004/005/006 form a path. Some players solved 004 without 003. Nothing names corners or units.

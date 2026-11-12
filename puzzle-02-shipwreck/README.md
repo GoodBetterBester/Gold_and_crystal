@@ -100,3 +100,7 @@ The 007 grid is 4 rows × 7 boxes, so each of the four locations gives a **7-let
 - New candidate: **Isla Margarita (Venezuela)**. Small west lobe (Macanao) + bigger, pointed east lobe, joined at the bottom by a thin strip (La Restinga) — same layout as the sketch, north-up, no rotation. Mangrove lagoon matches the sketch's blotchy interior. `images/004-margarita-compare.png`.
 - "The farthest point where South meets West" = SW extreme, which is also the westernmost point: **Punta Arenas, 10.9722 N, 64.4081 W** (WorldCover 10 m).
 - Triangle not yet explained: from this point, Shark Mound 2269 km, Tulum 2670 km, Mayaguana 1565 km. Side marks re-read: left "II" = 10, right bar+dot = 6, base bar+shell = 5 (shell above) or 100.
+
+## 004 status (2026-11-12, later)
+- Discord spoiler: 004 is a **triangulation** (KNOW). Corners and units unknown.
+- Garath's side reading: 1000 km, 1010 km, 100 km. With Bimini as a corner this always puts X at ~16.7–17.7 N (Swan / Pedro / Jamaica belt) — all shapes there rejected. Pedro Bank REJECTED. So probably the corners are not Bimini/Tulum, or the units differ.
