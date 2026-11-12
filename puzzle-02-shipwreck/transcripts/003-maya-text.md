@@ -95,3 +95,8 @@ Every set was decoded as A=1 and A=0 letters and checked against 40k-word Englis
 **Conclusion (KNOW):** the code is not "grid coordinate → stela number → letter". Either the grid is something else (e.g. the 5×4 word grid of the Maya text, where e2 = "kúuchil t'aano'oba', tu'ux le k'áak'o'"), or the numbers need the "one more step" the Discord hint mentions.
 
 Scripts: tools/003_brute_bands.py, tools/003_brute_sides.py, tools/003_score.py.
+
+## More tests (2026-11-12) — all nothing
+- Garath's reading (columns a–e = left + 4 middle, rows 1–4 = the 4 band rows): e2=2 (matches its own numeral), b3=6, d1=1, d3=1, a4=4, d1=1 → **2 6 1 1 4 1**. As letters BFAADA; as positions into JUANPONCEDELEON UOJJNJ, into ESCUALO SLEEUE; as text words "ken disco Le Le jóok'ol Le". Nothing.
+- Side columns (15 distinct numbers each, like the 15 boxes of 002) used as positions / reading order into JUANPONCEDELEON, the 002 plaintext, the Maya text, its first letters, the last sentence, ESCUALO: nothing (tools/003_side_columns.py).
+- Numbers missing from each side column (of 0–19): left {1,2,6,10,14}, right {1,3,5,13,19}. Unused so far.
